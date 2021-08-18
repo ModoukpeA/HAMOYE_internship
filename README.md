@@ -1,1 +1,3 @@
 # HAMOYE_internship
+HAMOYE AI LABS gives to its interns the opportunities to work on real world problems such as climate change, energy consumption...
+Here is a record of all my personal stuff during my internship.
